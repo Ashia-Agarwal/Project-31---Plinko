@@ -1,2 +1,3 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+# Project 31 - Plinko
+# Ashia Agarwal
+Output Link - https://ashia-agarwal.github.io/Project-31---Plinko/
